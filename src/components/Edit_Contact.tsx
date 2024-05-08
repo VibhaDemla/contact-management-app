@@ -42,7 +42,7 @@ const EditContact: React.FC = () => {
 
 useEffect(() => {
   // Find the contact with the matching id from the Redux store
-  const contact = allContacts.find((el: Contact) => el.id === id);
+  const contact = allContacts.find((el: Contact) => el.id == id);
   
   // If a contact is found, set the form state with its data
   if (contact) {
