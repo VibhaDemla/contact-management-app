@@ -28,11 +28,16 @@ Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?la
 
 The following technologies were used to build this app:
 
-ReactJS
+ReactJS 
+
 JavaScript
+
 TailwindCSS
+
 React Router v6
+
 React Query
+
 Redux
 
 **Installation and Setup**
