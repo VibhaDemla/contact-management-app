@@ -16,7 +16,9 @@ This page displays COVID-19 data for different countries. It includes a line gra
 The app uses the following APIs to fetch data:
 
 World wide data of cases: https://disease.sh/v3/covid-19/all
+
 Country Specific data of cases: https://disease.sh/v3/covid-19/countries
+
 Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
 **Technologies Used**
