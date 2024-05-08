@@ -1,7 +1,7 @@
-**Contact Management App with Charts and Maps**
+![image](https://github.com/VibhaDemla/contact-management-app/assets/140154943/35212581-0daf-4c63-ad04-766b7503f8cf)**Contact Management App with Charts and Maps**
 This is a contact management app built using ReactJS, JavaScript, TailwindCSS, React Router v6, and Redux. The app includes a dashboard with charts and maps that display COVID-19 data for different countries.
 
-**Deployed Link : -**
+**Deployed Link : -** https://contact-management-app-blond-two.vercel.app/
 
 
 **Pages and Functionality**
@@ -40,4 +40,4 @@ Start the app: npm start
 The app should open in your default browser at http://localhost:3000/.
 
 
-**Screenshots**
+
