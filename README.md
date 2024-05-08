@@ -42,7 +42,10 @@ The app should open in your default browser at http://localhost:3000/.
 **Screenshots**
 ![image](https://github.com/VibhaDemla/contact-management-app/assets/140154943/55377251-26c0-42c6-85a6-765a5bb58249)
 
+![image](https://github.com/VibhaDemla/contact-management-app/assets/140154943/18251023-3c0b-47e0-ae6d-bb0c402a01f5)
 
+![image](https://github.com/VibhaDemla/contact-management-app/assets/140154943/83a4c71b-7ba1-4dbd-976e-3d11347e4018)
 
+![image](https://github.com/VibhaDemla/contact-management-app/assets/140154943/860e18cc-b792-4d4a-bb46-4d4fb2c6c9f8)
 
 
